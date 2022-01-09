@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung755)](https://solved.ac/seyoung755/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=seyoung755&theme=dark)
