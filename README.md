@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 - 👨‍🎓 I majored in naval architecture & ocean engineering at Seoul Nat'l University.
-- 🌱 I’m currently learning Java and Springboot in Codesquad Masters Course to become a Backend developer.
+- 🌱 I’m currently learning Java and Springboot in [Codesquad Masters Course](https://codesquad.kr) to become a Backend developer.
 
 
 
