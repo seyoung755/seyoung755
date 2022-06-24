@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoung755&theme=dark&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung755&layout=compact&theme=dark)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyoung755&theme=dark&show_icons=true)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seyoung755)](https://solved.ac/seyoung755)  
