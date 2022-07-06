@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 👨‍🎓 I majored in naval architecture & ocean engineering at Seoul Nat'l University.
-- 🌱 Completed 2022 [Codesquad Backend Masters Course](https://codesquad.kr)
+- 🌱 Completion for 2022 [Codesquad Backend Masters Course](https://codesquad.kr)
 - 📫 How to reach me: seyoung755@gmail.com
 
 
