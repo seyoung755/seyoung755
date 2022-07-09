@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=merko&height=250&text=Hello%20World!&&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=merko&height=300&text=Hello%20World!&&animation=fadeIn&fontsize=100)
 
 <!--
 **seyoung755/seyoung755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
