@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## 🌱 Experience  
 
 - 2022 코드스쿼드 마스터즈 백엔드 수료(2022.01 ~ 2022.06)
+- NAVER FINANCIAL 백엔드 개발자 (2022.08 ~)
+- NEXTERS 22기 백엔드 개발자 활동 (2023.01 ~)
 
 ## 💻 Skills  
 
